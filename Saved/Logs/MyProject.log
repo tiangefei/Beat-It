@@ -288,3 +288,1003 @@ LogInit: Object subsystem initialized
 [2017.12.04-19.57.56:398][153]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2017.12.04-19.57.56:458][153]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2017.12.04-19.57.56:746][154]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.04-20.29.42:508][855]LogRenderer: Reallocating scene render targets to support 1756x900 Format 10 NumSamples 1 (Frame:1).
+[2017.12.04-20.30.50:329][874]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.032
+[2017.12.04-20.30.50:331][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MOBA_Minion_AI/AI/Minion_AICON] ([1] browsable assets)...
+[2017.12.04-20.30.50:331][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/MOBA_Minion_AI/AI/Minion_AICON]
+[2017.12.04-20.30.50:445][874]LogSavePackage: Save=109.32ms
+[2017.12.04-20.30.50:445][874]LogSavePackage: Moving '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Saved/Minion_AICON_Auto1656E07514E067BC13428E996C11AA741.tmp' to '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Saved/Autosaves/Game/MOBA_Minion_AI/AI/Minion_AICON_Auto1.uasset'
+[2017.12.04-20.30.50:447][874]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/che.c/Documents/Capstone/Beat-It/Saved/Autosaves/Game/MOBA_Minion_AI/AI/Minion_AICON_Auto1.uasset
+[2017.12.04-20.30.50:447][874]LogFileHelpers: Auto-saving content packages took 0.117
+[2017.12.04-20.37.21:013][582]BlueprintLog: New page: Compile Minion_AICON
+[2017.12.04-20.37.21:835][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MOBA_Minion_AI/AI/Minion_AICON" FILE="../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/MOBA_Minion_AI/AI/Minion_AICON.uasset" SILENT=true
+[2017.12.04-20.37.21:951][644]LogSavePackage: Save=110.27ms
+[2017.12.04-20.37.21:951][644]LogSavePackage: Moving '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Saved/Minion_AICON0F64935843BCE444B7FB36B9C6C0CC51.tmp' to '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/MOBA_Minion_AI/AI/Minion_AICON.uasset'
+[2017.12.04-20.37.21:953][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/MOBA_Minion_AI/AI/Minion_AICON.uasset
+[2017.12.04-20.38.10:259][ 10]LogBlueprint: Warning: [UpdateTarget] 'CurrWaypoint' variable not found. Base class was probably changed.
+[2017.12.04-20.39.24:609][633]BlueprintLog: New page: Compile UpdateTarget
+[2017.12.04-20.39.59:064][855]LogSavePackage: Save=39.76ms
+[2017.12.04-20.39.59:064][855]LogSavePackage: Moving '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Saved/UpdateTargetC4B0DA934081CC8CC8AEA396FA320B92.tmp' to '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/MOBA_Minion_AI/AI/Services/UpdateTarget.uasset'
+[2017.12.04-20.39.59:066][855]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/MOBA_Minion_AI/AI/Services/UpdateTarget.uasset
+[2017.12.04-20.41.31:392][853]BlueprintLog: New page: Compile MotionControllerMap
+[2017.12.04-20.41.32:599][947]LogSavePackage: Save=161.30ms
+[2017.12.04-20.41.32:599][947]LogSavePackage: Moving '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Saved/MotionControllerMap10AE512440486972523079A2B650ADD6.tmp' to '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.12.04-20.41.32:601][947]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.12.04-20.41.32:617][947]LogFileHelpers: Saving map 'MotionControllerMap' took 0.292
+[2017.12.04-20.41.52:936][342]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-20.41.53:021][342]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.41.53:021][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-20.41.53:021][342]PIE: New page: PIE session: MotionControllerMap (Dec 4, 2017, 10:41:53 AM)
+[2017.12.04-20.41.53:021][342]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.12.04-20.41.53:027][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005779s)
+[2017.12.04-20.41.53:028][342]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.04-20.41.53:028][342]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2017.12.04-20.41.53:028][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006649s)
+[2017.12.04-20.41.53:061][342]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.04-20.41.53:078][342]LogInit: FAudioDevice initialized.
+[2017.12.04-20.41.53:120][342]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2017.12.04-20.41.53:124][342]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.12.04-15.41.53
+[2017.12.04-20.41.53:125][342]LogWorld: Bringing up level for play took: 0.001629
+[2017.12.04-20.41.53:173][342]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.12.04-20.41.53:174][342]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.12.04-20.41.53:174][342]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.12.04-20.41.53:174][342]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.12.04-20.41.53:176][342]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.12.04-20.41.53:176][342]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.796
+[2017.12.04-20.41.53:177][342]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.41.54:930][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.54:930][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.54:931][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.54:931][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.54:932][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.54:932][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.54:932][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.54:932][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.54:933][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.54:933][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.54:933][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.54:933][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.54:934][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.54:934][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_3
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.54:934][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.54:934][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.54:935][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.54:935][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_4
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.54:935][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.54:935][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.54:936][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.54:936][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_5
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.54:936][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.54:936][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:126][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_0] Waypoint2
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_0] Waypoint5
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_0] Waypoint8
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_1] Waypoint
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_1] Waypoint4
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_1] Waypoint7
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_2] Waypoint3
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_2] Waypoint6
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_2] Waypoint9
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_3] Waypoint9
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_3] Waypoint6
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_3] Waypoint3
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_4] Waypoint7
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_4] Waypoint4
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_4] Waypoint
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_5] Waypoint8
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_5] Waypoint5
+[2017.12.04-20.41.55:127][571]LogBlueprintUserMessages: [Minion_C_5] Waypoint2
+[2017.12.04-20.41.55:937][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:937][668]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_6
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.55:937][668]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.55:937][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:938][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:938][668]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_7
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.55:938][668]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.55:938][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:939][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:939][668]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_8
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.55:939][668]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.55:939][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:940][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:940][668]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_9
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.55:940][668]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.55:940][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:941][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:941][668]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_10
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.55:942][668]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.55:942][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:942][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.55:943][668]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_11
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.55:943][668]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.55:943][668]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_6] Waypoint2
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_6] Waypoint5
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_6] Waypoint8
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_7] Waypoint
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_7] Waypoint4
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_7] Waypoint7
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_8] Waypoint3
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_8] Waypoint6
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_8] Waypoint9
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_9] Waypoint9
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_9] Waypoint6
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_9] Waypoint3
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_10] Waypoint7
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_10] Waypoint4
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_10] Waypoint
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_11] Waypoint8
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_11] Waypoint5
+[2017.12.04-20.41.56:133][691]LogBlueprintUserMessages: [Minion_C_11] Waypoint2
+[2017.12.04-20.41.56:935][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:935][787]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_12
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.56:935][787]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.56:936][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:936][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:937][787]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_13
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.56:937][787]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.56:937][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:938][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:938][787]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_14
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.56:938][787]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.56:938][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:939][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:939][787]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_15
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.56:939][787]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.56:939][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:940][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:940][787]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_16
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.56:940][787]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.56:940][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:941][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.56:941][787]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_17
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.56:941][787]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.56:941][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_12] Waypoint2
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_12] Waypoint5
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_12] Waypoint8
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_13] Waypoint
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_13] Waypoint4
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_13] Waypoint7
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_14] Waypoint3
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_14] Waypoint6
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_14] Waypoint9
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_15] Waypoint9
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_15] Waypoint6
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_15] Waypoint3
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_16] Waypoint7
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_16] Waypoint4
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_16] Waypoint
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_17] Waypoint8
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_17] Waypoint5
+[2017.12.04-20.41.57:132][810]LogBlueprintUserMessages: [Minion_C_17] Waypoint2
+[2017.12.04-20.41.57:934][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:934][906]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_18
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.57:935][906]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.57:935][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:936][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:936][906]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_19
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.57:936][906]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.57:936][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:937][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:937][906]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_20
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.57:937][906]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.57:937][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:938][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:938][906]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_21
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.57:938][906]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.57:938][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:939][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:939][906]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_22
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.57:939][906]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.57:939][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:940][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.57:940][906]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_23
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.57:940][906]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.57:940][906]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:131][929]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.58:131][929]LogBlueprintUserMessages: [Minion_C_18] Waypoint2
+[2017.12.04-20.41.58:131][929]LogBlueprintUserMessages: [Minion_C_18] Waypoint5
+[2017.12.04-20.41.58:131][929]LogBlueprintUserMessages: [Minion_C_18] Waypoint8
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_19] Waypoint
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_19] Waypoint4
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_19] Waypoint7
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_20] Waypoint3
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_20] Waypoint6
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_20] Waypoint9
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_21] Waypoint9
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_21] Waypoint6
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_21] Waypoint3
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_22] Waypoint7
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_22] Waypoint4
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_22] Waypoint
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_23] Waypoint8
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_23] Waypoint5
+[2017.12.04-20.41.58:132][929]LogBlueprintUserMessages: [Minion_C_23] Waypoint2
+[2017.12.04-20.41.58:935][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:935][ 25]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_24
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.58:936][ 25]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.58:936][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:937][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:937][ 25]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_25
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.58:937][ 25]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.58:937][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:938][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:938][ 25]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_26
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.58:938][ 25]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.58:938][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:940][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:940][ 25]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_27
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.58:940][ 25]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.58:940][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:941][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:941][ 25]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_28
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.58:941][ 25]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.58:941][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:942][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.58:942][ 25]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_29
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.41.58:943][ 25]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.41.58:943][ 25]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.41.59:126][ 47]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.59:126][ 47]LogBlueprintUserMessages: [Minion_C_24] Waypoint2
+[2017.12.04-20.41.59:126][ 47]LogBlueprintUserMessages: [Minion_C_24] Waypoint5
+[2017.12.04-20.41.59:126][ 47]LogBlueprintUserMessages: [Minion_C_24] Waypoint8
+[2017.12.04-20.41.59:126][ 47]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.59:126][ 47]LogBlueprintUserMessages: [Minion_C_25] Waypoint
+[2017.12.04-20.41.59:126][ 47]LogBlueprintUserMessages: [Minion_C_25] Waypoint4
+[2017.12.04-20.41.59:126][ 47]LogBlueprintUserMessages: [Minion_C_25] Waypoint7
+[2017.12.04-20.41.59:126][ 47]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_26] Waypoint3
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_26] Waypoint6
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_26] Waypoint9
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_27] Waypoint9
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_27] Waypoint6
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_27] Waypoint3
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_28] Waypoint7
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_28] Waypoint4
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_28] Waypoint
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_29] Waypoint8
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_29] Waypoint5
+[2017.12.04-20.41.59:127][ 47]LogBlueprintUserMessages: [Minion_C_29] Waypoint2
+[2017.12.04-20.42.04:864][733]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.42.04:897][733]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.42.26:093][936]BlueprintLog: New page: Compile Minion_AICON
+[2017.12.04-20.42.26:798][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MOBA_Minion_AI/AI/Minion_AICON" FILE="../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/MOBA_Minion_AI/AI/Minion_AICON.uasset" SILENT=true
+[2017.12.04-20.42.26:914][983]LogSavePackage: Save=110.49ms
+[2017.12.04-20.42.26:914][983]LogSavePackage: Moving '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Saved/Minion_AICON07F5EFB44489D3AAE8E5BB8D63DD656A.tmp' to '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/MOBA_Minion_AI/AI/Minion_AICON.uasset'
+[2017.12.04-20.42.26:916][983]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/MOBA_Minion_AI/AI/Minion_AICON.uasset
+[2017.12.04-20.42.28:967][204]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-20.42.28:980][204]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.42.28:981][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-20.42.28:981][204]PIE: New page: PIE session: MotionControllerMap (Dec 4, 2017, 10:42:28 AM)
+[2017.12.04-20.42.28:981][204]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.12.04-20.42.28:987][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005796s)
+[2017.12.04-20.42.28:987][204]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.04-20.42.28:987][204]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2017.12.04-20.42.28:988][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006818s)
+[2017.12.04-20.42.29:013][204]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.04-20.42.29:028][204]LogInit: FAudioDevice initialized.
+[2017.12.04-20.42.29:060][204]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2017.12.04-20.42.29:062][204]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.12.04-15.42.29
+[2017.12.04-20.42.29:062][204]LogWorld: Bringing up level for play took: 0.001526
+[2017.12.04-20.42.29:063][204]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.12.04-20.42.29:063][204]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.12.04-20.42.29:063][204]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.12.04-20.42.29:065][204]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.12.04-20.42.29:065][204]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.685
+[2017.12.04-20.42.29:066][204]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.42.30:969][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.30:970][429]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.30:970][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.30:970][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.30:971][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.30:971][429]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.30:971][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.30:971][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.30:972][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.30:972][429]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.30:972][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.30:972][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.30:973][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.30:973][429]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_3
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.30:973][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.30:973][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.30:974][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.30:974][429]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_4
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.30:974][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.30:974][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.30:975][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.30:975][429]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_5
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.30:976][429]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.30:976][429]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:165][452]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.31:165][452]LogBlueprintUserMessages: [Minion_C_0] Waypoint2
+[2017.12.04-20.42.31:165][452]LogBlueprintUserMessages: [Minion_C_0] Waypoint5
+[2017.12.04-20.42.31:165][452]LogBlueprintUserMessages: [Minion_C_0] Waypoint8
+[2017.12.04-20.42.31:165][452]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_1] Waypoint
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_1] Waypoint4
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_1] Waypoint7
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_2] Waypoint3
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_2] Waypoint6
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_2] Waypoint9
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_3] Waypoint9
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_3] Waypoint6
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_3] Waypoint3
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_4] Waypoint7
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_4] Waypoint4
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_4] Waypoint
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_5] Waypoint8
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_5] Waypoint5
+[2017.12.04-20.42.31:166][452]LogBlueprintUserMessages: [Minion_C_5] Waypoint2
+[2017.12.04-20.42.31:973][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:973][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_6
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.31:974][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.31:974][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:975][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:975][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_7
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.31:975][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.31:975][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:976][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:976][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_8
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.31:976][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.31:976][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:977][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:977][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_9
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.31:977][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.31:977][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:978][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:978][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_10
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.31:978][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.31:978][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:979][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.31:980][548]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_11
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.31:980][548]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.31:980][548]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_6] Waypoint2
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_6] Waypoint5
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_6] Waypoint8
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_7] Waypoint
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_7] Waypoint4
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_7] Waypoint7
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_8] Waypoint3
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_8] Waypoint6
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_8] Waypoint9
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_9] Waypoint9
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_9] Waypoint6
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_9] Waypoint3
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_10] Waypoint7
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_10] Waypoint4
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_10] Waypoint
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_11] Waypoint8
+[2017.12.04-20.42.32:170][571]LogBlueprintUserMessages: [Minion_C_11] Waypoint5
+[2017.12.04-20.42.32:171][571]LogBlueprintUserMessages: [Minion_C_11] Waypoint2
+[2017.12.04-20.42.32:972][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:972][667]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_12
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.32:972][667]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.32:972][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:973][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:973][667]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_13
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.32:973][667]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.32:973][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:974][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:974][667]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_14
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.32:975][667]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.32:975][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:976][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:976][667]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_15
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.32:976][667]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.32:976][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:977][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:977][667]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_16
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.32:977][667]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.32:977][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:978][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.32:978][667]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_17
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.32:978][667]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.32:978][667]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_12] Waypoint2
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_12] Waypoint5
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_12] Waypoint8
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_13] Waypoint
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_13] Waypoint4
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_13] Waypoint7
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_14] Waypoint3
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_14] Waypoint6
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_14] Waypoint9
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_15] Waypoint9
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_15] Waypoint6
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_15] Waypoint3
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_16] Waypoint7
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_16] Waypoint4
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_16] Waypoint
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_17] Waypoint8
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_17] Waypoint5
+[2017.12.04-20.42.33:169][690]LogBlueprintUserMessages: [Minion_C_17] Waypoint2
+[2017.12.04-20.42.33:971][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:971][786]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_18
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.33:971][786]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.33:971][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:972][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:972][786]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_19
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.33:973][786]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.33:973][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:974][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:974][786]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_20
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.33:974][786]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.33:974][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:975][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:975][786]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_21
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.33:975][786]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.33:975][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:976][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:976][786]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_22
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.33:976][786]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.33:976][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:977][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.33:977][786]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_23
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.33:977][786]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.33:977][786]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_18] Waypoint2
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_18] Waypoint5
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_18] Waypoint8
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_19] Waypoint
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_19] Waypoint4
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_19] Waypoint7
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_20] Waypoint3
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_20] Waypoint6
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_20] Waypoint9
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_21] Waypoint9
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_21] Waypoint6
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_21] Waypoint3
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_22] Waypoint7
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_22] Waypoint4
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_22] Waypoint
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_23] Waypoint8
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_23] Waypoint5
+[2017.12.04-20.42.34:169][809]LogBlueprintUserMessages: [Minion_C_23] Waypoint2
+[2017.12.04-20.42.34:971][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:972][905]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_24
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.34:972][905]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.34:972][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:973][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:973][905]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_25
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.34:973][905]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.34:973][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:974][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:974][905]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_26
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.34:974][905]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.34:974][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:976][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:976][905]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_27
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.34:976][905]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.34:976][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:976][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:976][905]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_28
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.34:977][905]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.34:977][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:978][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.34:978][905]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_29
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.34:978][905]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.34:978][905]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_24] Waypoint2
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_24] Waypoint5
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_24] Waypoint8
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_25] Waypoint
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_25] Waypoint4
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_25] Waypoint7
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_26] Waypoint3
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_26] Waypoint6
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_26] Waypoint9
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_27] Waypoint9
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_27] Waypoint6
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_27] Waypoint3
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_28] Waypoint7
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_28] Waypoint4
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_28] Waypoint
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_29] Waypoint8
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_29] Waypoint5
+[2017.12.04-20.42.35:163][927]LogBlueprintUserMessages: [Minion_C_29] Waypoint2
+[2017.12.04-20.42.44:620][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.42.44:660][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.42.47:579][398]LogEditorViewport: Clicking on Actor (LMB): Waypoint_C (Waypoint4)
+[2017.12.04-20.42.49:722][647]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.04-20.42.49:735][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.42.49:735][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.04-20.42.49:735][647]PIE: New page: PIE session: MotionControllerMap (Dec 4, 2017, 10:42:49 AM)
+[2017.12.04-20.42.49:735][647]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2017.12.04-20.42.49:741][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005829s)
+[2017.12.04-20.42.49:742][647]LogAIModule: Creating AISystem for world MotionControllerMap
+[2017.12.04-20.42.49:742][647]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2017.12.04-20.42.49:742][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006747s)
+[2017.12.04-20.42.49:769][647]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.04-20.42.49:784][647]LogInit: FAudioDevice initialized.
+[2017.12.04-20.42.49:818][647]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2017.12.04-20.42.49:821][647]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2017.12.04-15.42.49
+[2017.12.04-20.42.49:821][647]LogWorld: Bringing up level for play took: 0.001495
+[2017.12.04-20.42.49:821][647]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.12.04-20.42.49:821][647]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.12.04-20.42.49:821][647]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.12.04-20.42.49:824][647]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.12.04-20.42.49:824][647]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.557
+[2017.12.04-20.42.49:824][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.42.51:723][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:723][872]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.51:724][872]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.51:724][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:725][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:725][872]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.51:725][872]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.51:725][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:726][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:726][872]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.51:726][872]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.51:726][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:727][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:727][872]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_3
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.51:727][872]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.51:727][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:728][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:728][872]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_4
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.51:728][872]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.51:728][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:729][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:729][872]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_5
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.51:729][872]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.51:730][872]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_0] Waypoint2
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_0] Waypoint5
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_0] Waypoint8
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_1] Waypoint
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_1] Waypoint4
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_1] Waypoint7
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_2] Waypoint3
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_2] Waypoint6
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_2] Waypoint9
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_3] Waypoint9
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_3] Waypoint6
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_3] Waypoint3
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_4] Waypoint7
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_4] Waypoint4
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_4] Waypoint
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_5] Waypoint8
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_5] Waypoint5
+[2017.12.04-20.42.51:920][895]LogBlueprintUserMessages: [Minion_C_5] Waypoint2
+[2017.12.04-20.42.52:726][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:726][991]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_6
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.52:726][991]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.52:726][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:727][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:728][991]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_7
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.52:728][991]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.52:728][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:729][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:729][991]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_8
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.52:729][991]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.52:729][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:730][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:730][991]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_9
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.52:730][991]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.52:730][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:731][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:731][991]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_10
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.52:731][991]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.52:731][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:732][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:732][991]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_11
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.52:732][991]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.52:732][991]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_6] Waypoint2
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_6] Waypoint5
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_6] Waypoint8
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_7] Waypoint
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_7] Waypoint4
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_7] Waypoint7
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_8] Waypoint3
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_8] Waypoint6
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_8] Waypoint9
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_9] Waypoint9
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_9] Waypoint6
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_9] Waypoint3
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_10] Waypoint7
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_10] Waypoint4
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_10] Waypoint
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_11] Waypoint8
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_11] Waypoint5
+[2017.12.04-20.42.52:923][ 14]LogBlueprintUserMessages: [Minion_C_11] Waypoint2
+[2017.12.04-20.42.53:729][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:729][110]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_12
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.53:729][110]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.53:729][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:730][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:730][110]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_13
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.53:730][110]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.53:730][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:731][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:731][110]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_14
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.53:732][110]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.53:732][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:733][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:733][110]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_15
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.53:733][110]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.53:733][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:734][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:734][110]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_16
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.53:734][110]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.53:734][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:735][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:735][110]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_17
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.53:735][110]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.53:735][110]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_12] Waypoint2
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_12] Waypoint5
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_12] Waypoint8
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_13] Waypoint
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_13] Waypoint4
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_13] Waypoint7
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_14] Waypoint3
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_14] Waypoint6
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_14] Waypoint9
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_15] Waypoint9
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_15] Waypoint6
+[2017.12.04-20.42.53:926][133]LogBlueprintUserMessages: [Minion_C_15] Waypoint3
+[2017.12.04-20.42.53:927][133]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.53:927][133]LogBlueprintUserMessages: [Minion_C_16] Waypoint7
+[2017.12.04-20.42.53:927][133]LogBlueprintUserMessages: [Minion_C_16] Waypoint4
+[2017.12.04-20.42.53:927][133]LogBlueprintUserMessages: [Minion_C_16] Waypoint
+[2017.12.04-20.42.53:927][133]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.53:927][133]LogBlueprintUserMessages: [Minion_C_17] Waypoint8
+[2017.12.04-20.42.53:927][133]LogBlueprintUserMessages: [Minion_C_17] Waypoint5
+[2017.12.04-20.42.53:927][133]LogBlueprintUserMessages: [Minion_C_17] Waypoint2
+[2017.12.04-20.42.54:733][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:733][229]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_18
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.54:733][229]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.54:733][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:734][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:734][229]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_19
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.54:734][229]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.54:734][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:735][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:735][229]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_20
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.54:735][229]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.54:735][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:736][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:736][229]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_21
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.54:737][229]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.54:737][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:738][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:738][229]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_22
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.54:738][229]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.54:738][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:739][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:739][229]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_23
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.54:739][229]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.54:739][229]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_18] Waypoint2
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_18] Waypoint5
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_18] Waypoint8
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_19] Waypoint
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_19] Waypoint4
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_19] Waypoint7
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_20] Waypoint3
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_20] Waypoint6
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_20] Waypoint9
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_21] Waypoint9
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_21] Waypoint6
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_21] Waypoint3
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_22] Waypoint7
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_22] Waypoint4
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_22] Waypoint
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_23] Waypoint8
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_23] Waypoint5
+[2017.12.04-20.42.54:930][252]LogBlueprintUserMessages: [Minion_C_23] Waypoint2
+[2017.12.04-20.42.55:730][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:730][347]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_24
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.55:730][347]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.55:730][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:731][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:731][347]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_25
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.55:731][347]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.55:731][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:732][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:732][347]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_26
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.55:732][347]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.55:733][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:734][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:734][347]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_27
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.55:734][347]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.55:734][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:735][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:735][347]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_28
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.55:735][347]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.55:735][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:736][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:736][347]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_29
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0CA5
+[2017.12.04-20.42.55:736][347]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2017.12.04-20.42.55:736][347]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_24] Waypoint2
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_24] Waypoint5
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_24] Waypoint8
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_25] Waypoint
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_25] Waypoint4
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_25] Waypoint7
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_26] Waypoint3
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_26] Waypoint6
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_26] Waypoint9
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_27] Waypoint9
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_27] Waypoint6
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_27] Waypoint3
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_28] Waypoint7
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_28] Waypoint4
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_28] Waypoint
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [MOBA_AI_GameMode_C_0] 2
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_29] Waypoint8
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_29] Waypoint5
+[2017.12.04-20.42.55:923][369]LogBlueprintUserMessages: [Minion_C_29] Waypoint2
+[2017.12.04-20.43.48:989][721]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.43.49:030][721]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2017.12.04-20.49.26:218][265]LogSavePackage: Save=162.98ms
+[2017.12.04-20.49.26:218][265]LogSavePackage: Moving '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Saved/MotionControllerMap01381A044AC2BE602A7130BF90DFC148.tmp' to '../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2017.12.04-20.49.26:220][265]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/che.c/Documents/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2017.12.04-20.49.26:237][265]LogFileHelpers: Saving map 'MotionControllerMap' took 0.300
