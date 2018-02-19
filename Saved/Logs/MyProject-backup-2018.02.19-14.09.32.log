@@ -1,0 +1,1325 @@
+﻿Log file open, 02/17/18 23:09:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(908050898) SRandInit(908050898).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.221378
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: D:/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.18-04.09.37:299][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.18-04.09.37:299][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.18-04.09.37:377][  0]LogInit: Computer: MSI
+[2018.02.18-04.09.37:377][  0]LogInit: User: Christopher
+[2018.02.18-04.09.37:377][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.18-04.09.37:377][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2018.02.18-04.09.37:378][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.18-04.09.37:378][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.18-04.09.37:378][  0]LogMemory: Process Physical Memory: 277.96 MB used, 277.96 MB peak
+[2018.02.18-04.09.37:378][  0]LogMemory: Process Virtual Memory: 274.03 MB used, 274.03 MB peak
+[2018.02.18-04.09.37:378][  0]LogMemory: Physical Memory: 4922.77 MB used,  11346.23 MB free, 16269.00 MB total
+[2018.02.18-04.09.37:378][  0]LogMemory: Virtual Memory: 702.11 MB used,  11346.23 MB free, 134217728.00 MB total
+[2018.02.18-04.09.40:120][  0]LogInit: Using OS detected language (en-US).
+[2018.02.18-04.09.40:120][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.18-04.09.40:479][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.18-04.09.46:682][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.18-04.09.46:774][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.02.18-04.09.46:774][  0]LogD3D11RHI:       8081/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.18-04.09.46:799][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.02.18-04.09.46:799][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.18-04.09.46:808][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.18-04.09.46:808][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.18-04.09.46:808][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.18-04.09.46:824][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.18-04.09.46:824][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.18-04.09.46:824][  0]LogWindows: EnumDisplayDevices:
+[2018.02.18-04.09.46:824][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.02.18-04.09.46:825][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.18-04.09.46:825][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.18-04.09.46:825][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.02.18-04.09.46:825][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.02.18-04.09.46:825][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.02.18-04.09.46:825][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.02.18-04.09.46:825][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.18-04.09.46:825][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.02.18-04.09.46:825][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.18-04.09.46:825][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.18-04.09.46:825][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.02.18-04.09.46:883][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.18-04.09.47:012][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.18-04.09.47:014][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Intermediate/Shaders/WorkingDirectory/2404/).
+[2018.02.18-04.09.47:014][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Christopher/AppData/Local/Temp/UnrealShaderWorkingDir/E97B4D5B49932930FD26EE963EC20A81/'.
+[2018.02.18-04.09.47:014][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.18-04.09.51:369][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.18-04.09.51:418][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.18-04.09.51:471][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.18-04.09.51:520][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.18-04.09.51:589][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.18-04.09.51:637][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.18-04.09.51:687][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.18-04.09.51:743][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.18-04.09.51:787][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.18-04.09.51:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.18-04.09.51:927][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.18-04.09.51:973][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.18-04.09.52:022][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.18-04.09.52:071][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.18-04.09.52:118][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.18-04.09.52:216][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.18-04.09.52:216][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.18-04.09.52:250][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.18-04.09.52:418][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.18-04.09.52:453][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.18-04.09.52:500][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.18-04.09.52:544][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.18-04.09.52:593][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.18-04.09.52:644][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.18-04.09.52:644][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.18-04.09.54:182][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.18-04.09.54:831][  0]LogDerivedDataCache: Loaded boot cache 0.65s 93MB C:/Users/Christopher/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.18-04.09.54:831][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Christopher/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.02.18-04.09.54:831][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.18-04.09.54:831][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.18-04.09.54:832][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.18-04.09.54:832][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.18-04.09.54:951][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.18-04.09.54:966][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Christopher/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.18-04.09.54:981][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.18-04.09.54:982][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.18-04.09.55:093][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.18-04.09.55:093][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.18-04.10.01:642][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
+[2018.02.18-04.10.01:929][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.18-04.10.03:265][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.18-04.10.03:907][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.18-04.10.03:960][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.18-04.10.03:960][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.18-04.10.03:960][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.18-04.10.03:960][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.18-04.10.03:960][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.18-04.10.05:455][  0]LogNetVersion: MyProject , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3113362612)
+[2018.02.18-04.10.06:381][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.108775 seconds
+[2018.02.18-04.10.06:389][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.02.18-04.10.06:389][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.02.18-04.10.06:389][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.18-04.10.06:451][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.18-04.10.21:615][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.18-04.10.21:661][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.18-04.10.23:023][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.18-04.10.23:696][  0]SourceControl: Source control is disabled
+[2018.02.18-04.10.23:696][  0]SourceControl: Source control is disabled
+[2018.02.18-04.10.23:795][  0]SourceControl: Source control is disabled
+[2018.02.18-04.10.23:846][  0]SourceControl: Source control is disabled
+[2018.02.18-04.10.24:808][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.18-04.10.25:054][  0]LogOcInput: OculusInput pre-init called
+[2018.02.18-04.10.25:446][  0]LogEngine: Initializing Engine...
+[2018.02.18-04.10.25:450][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.18-04.10.26:335][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.18-04.10.26:335][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.18-04.10.26:568][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.18-04.10.26:607][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.10.26:686][  0]LogInit: FAudioDevice initialized.
+[2018.02.18-04.10.26:835][  0]LogDerivedDataCache: Saved boot cache 0.15s 93MB C:/Users/Christopher/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.18-04.10.26:861][  0]LogInit: Texture streaming: Enabled
+[2018.02.18-04.10.27:000][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.18-04.10.27:587][  0]LogInit: Transaction tracking system initialized
+[2018.02.18-04.10.28:051][  0]BlueprintLog: New page: Editor Load
+[2018.02.18-04.10.30:216][  0]LocalizationService: Localization service is disabled
+[2018.02.18-04.10.31:879][  0]LogConsoleResponse: Display: 
+[2018.02.18-04.10.34:340][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.18-04.10.34:340][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.18-04.10.34:340][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.18-04.10.34:816][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/NEU/2017_Fall/Capstone/Beat-It/Content/' took 0.05s
+[2018.02.18-04.10.37:610][  0]SourceControl: Source control is disabled
+[2018.02.18-04.10.37:611][  0]Cmd: MAP LOAD FILE="../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.18-04.10.37:611][  0]LightingResults: New page: Lighting Build
+[2018.02.18-04.10.37:647][  0]MapCheck: New page: Map Check
+[2018.02.18-04.10.37:647][  0]LightingResults: New page: Lighting Build
+[2018.02.18-04.10.44:168][  0]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2018.02.18-04.10.44:168][  0]LogBlueprint: Warning: [Compiler MotionControllerPawn] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2018.02.18-04.10.44:182][  0]LogBlueprint: Warning: [Compiler MotionControllerPawn] [0080.89] Compile of MotionControllerPawn successful, but with 2 Warning(s) [in 27 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.02.18-04.10.49:846][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.10.49:976][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.18-04.10.50:001][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.18-04.10.50:070][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.529ms to complete.
+[2018.02.18-04.10.50:070][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 12.459
+[2018.02.18-04.10.50:411][  0]LogCollectionManager: Loaded 0 collections in 0.001602 seconds
+[2018.02.18-04.10.50:505][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/Collections/' took 0.01s
+[2018.02.18-04.10.50:506][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/NEU/2017_Fall/Capstone/Beat-It/Content/Developers/Christopher/Collections/' took 0.01s
+[2018.02.18-04.10.50:506][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/NEU/2017_Fall/Capstone/Beat-It/Content/Collections/' took 0.01s
+[2018.02.18-04.10.50:506][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.18-04.10.50:518][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2386 classes and 500 folders.
+[2018.02.18-04.10.50:597][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.02.18-04.10.52:729][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.02.18-04.10.52:878][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.02.18-04.10.53:027][  0]LogSlate: Took 0.028112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.18-04.10.53:050][  0]LogSlate: Took 0.019177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.18-04.10.53:081][  0]LogSlate: Took 0.024873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.18-04.10.53:504][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2018.02.18-04.10.53:622][  0]LogSlate: Took 0.023968 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.18-04.10.53:939][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.02.18-04.10.53:939][  0]LogLoad: (Engine Initialization) Total time: 90.65 seconds
+[2018.02.18-04.10.53:939][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.18-04.10.53:940][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.18-04.10.54:319][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.18-04.10.55:419][  3]LogSlate: Took 0.000471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.18-04.10.55:520][  5]LogAssetRegistry: Asset discovery search completed in 53.9007 seconds
+[2018.02.18-04.10.55:531][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.18-04.10.55:531][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000159 seconds (updated 0 objects)
+[2018.02.18-04.11.02:157][155]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.18-04.11.02:870][155]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2018.02.18-04.11.03:953][155]LogSlate: Took 0.012046 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.18-04.11.04:473][156]LogSlate: Took 0.026413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.18-04.12.19:353][509]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.12.20:916][544]LogSavePackage: Save=712.11ms
+[2018.02.18-04.12.20:916][544]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap54E7C52B48C89EFA239290AF7EB2A3B6.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.12.20:932][544]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.12.20:975][544]LogFileHelpers: Saving map 'MotionControllerMap' took 0.980
+[2018.02.18-04.12.22:086][613]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.12.22:257][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.12.22:258][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.12.22:258][613]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:12:22 PM)
+[2018.02.18-04.12.22:258][613]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.12.22:287][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028684s)
+[2018.02.18-04.12.22:288][613]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.12.22:288][613]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2018.02.18-04.12.22:288][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.029743s)
+[2018.02.18-04.12.22:330][613]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.12.22:383][613]LogInit: FAudioDevice initialized.
+[2018.02.18-04.12.22:432][613]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.12.22:478][613]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.17-23.12.22
+[2018.02.18-04.12.22:487][613]LogWorld: Bringing up level for play took: 0.024675
+[2018.02.18-04.12.22:538][613]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.02.18-04.12.22:538][613]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.12.22:538][613]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.12.22:538][613]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.12.22:551][613]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.12.22:551][613]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.154
+[2018.02.18-04.12.22:551][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.12.22:641][615]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.12.22:641][615]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.12.22:641][615]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.12.22:641][615]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.12.24:204][793]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.12.24:204][793]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.12.24:204][793]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.12.24:204][793]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.12.24:310][804]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.12.24:310][804]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.12.24:310][804]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.12.24:310][804]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.12.24:510][827]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.12.24:510][827]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_3
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.12.24:511][827]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.12.24:511][827]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.12.41:851][583]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.12.41:947][583]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.13.43:266][986]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.13.44:544][ 22]LogSavePackage: Save=629.40ms
+[2018.02.18-04.13.44:544][ 22]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap48A5AAA9411C3A683F06E294CCBB26AB.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.13.44:547][ 22]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.13.44:578][ 22]LogFileHelpers: Saving map 'MotionControllerMap' took 0.737
+[2018.02.18-04.13.45:637][104]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.13.45:659][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.13.45:659][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.13.45:659][104]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:13:45 PM)
+[2018.02.18-04.13.45:659][104]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.13.45:680][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021257s)
+[2018.02.18-04.13.45:681][104]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.13.45:681][104]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2018.02.18-04.13.45:681][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.022358s)
+[2018.02.18-04.13.45:722][104]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.13.45:776][104]LogInit: FAudioDevice initialized.
+[2018.02.18-04.13.45:811][104]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.13.45:818][104]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.17-23.13.45
+[2018.02.18-04.13.45:821][104]LogWorld: Bringing up level for play took: 0.009238
+[2018.02.18-04.13.45:822][104]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.13.45:822][104]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.13.45:822][104]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.13.45:825][104]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.13.45:825][104]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.428
+[2018.02.18-04.13.45:825][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.13.45:891][107]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.13.45:892][107]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.13.45:892][107]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.13.45:892][107]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.13.46:394][163]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2557.816 Y=0.000 Z=292.000] for [Minion_C]
+[2018.02.18-04.13.46:395][163]LogScript: Warning: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Minion_C_1 is pending kill
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_0
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:078C
+[2018.02.18-04.13.46:395][163]PIE: Error: Blueprint Runtime Error: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Minion_C_1 is pending kill from function: 'ExecuteUbergraph_MotionControllerMap' from node: Create Dynamic Material Instance in graph: EventGraph in object: MotionControllerMap with description: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Minion_C_1 is pending kill
+[2018.02.18-04.13.46:395][163]LogScript: Warning: Accessed None
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_0
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:07A1
+[2018.02.18-04.13.46:395][163]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_MotionControllerMap' from node: Create Dynamic Material Instance in graph: EventGraph in object: MotionControllerMap with description: Accessed None
+[2018.02.18-04.13.46:395][163]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_0
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:07D5
+[2018.02.18-04.13.46:395][163]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue from function: 'ExecuteUbergraph_MotionControllerMap' from node: Set Vector Parameter Value in graph: EventGraph in object: MotionControllerMap with description: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+[2018.02.18-04.13.48:084][359]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.13.48:084][359]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.13.48:084][359]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.13.48:084][359]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.13.48:122][363]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.13.48:123][363]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.13.48:123][363]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.13.48:123][363]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.13.48:192][371]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.13.48:192][371]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_3
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.13.48:192][371]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.13.48:193][371]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.14.20:516][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.14.20:586][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.14.21:494][296]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.14.21:519][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.14.21:519][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.14.21:520][296]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:14:21 PM)
+[2018.02.18-04.14.21:520][296]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.14.21:541][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021470s)
+[2018.02.18-04.14.21:542][296]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.14.21:542][296]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2018.02.18-04.14.21:542][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.022529s)
+[2018.02.18-04.14.21:583][296]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.14.21:635][296]LogInit: FAudioDevice initialized.
+[2018.02.18-04.14.21:674][296]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.14.21:679][296]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.17-23.14.21
+[2018.02.18-04.14.21:682][296]LogWorld: Bringing up level for play took: 0.007126
+[2018.02.18-04.14.21:682][296]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.14.21:682][296]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.14.21:682][296]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.14.21:685][296]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.14.21:685][296]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.288
+[2018.02.18-04.14.21:685][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.14.21:746][298]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.14.21:746][298]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.14.21:746][298]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.14.21:746][298]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.14.22:250][320]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2552.940 Y=0.000 Z=292.000] for [Minion_C]
+[2018.02.18-04.14.22:251][320]LogScript: Warning: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Minion_C_1 is pending kill
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_0
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:078C
+[2018.02.18-04.14.22:251][320]PIE: Error: Blueprint Runtime Error: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Minion_C_1 is pending kill from function: 'ExecuteUbergraph_MotionControllerMap' from node: Create Dynamic Material Instance in graph: EventGraph in object: MotionControllerMap with description: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue, but Minion_C_1 is pending kill
+[2018.02.18-04.14.22:251][320]LogScript: Warning: Accessed None
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_0
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:07A1
+[2018.02.18-04.14.22:251][320]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_MotionControllerMap' from node: Create Dynamic Material Instance in graph: EventGraph in object: MotionControllerMap with description: Accessed None
+[2018.02.18-04.14.22:251][320]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_0
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:07D5
+[2018.02.18-04.14.22:251][320]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue from function: 'ExecuteUbergraph_MotionControllerMap' from node: Set Vector Parameter Value in graph: EventGraph in object: MotionControllerMap with description: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue
+[2018.02.18-04.14.28:012][596]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.14.28:080][596]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.15.07:563][511]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.15.09:142][544]LogSavePackage: Save=641.90ms
+[2018.02.18-04.15.09:142][544]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap92A632764DB877B9EDBDBCA849F4C456.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.15.09:144][544]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.15.09:177][544]LogFileHelpers: Saving map 'MotionControllerMap' took 0.750
+[2018.02.18-04.15.10:261][613]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.15.10:284][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.15.10:284][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.15.10:285][613]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:15:10 PM)
+[2018.02.18-04.15.10:285][613]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.15.10:304][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019216s)
+[2018.02.18-04.15.10:305][613]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.15.10:305][613]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2018.02.18-04.15.10:305][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.020453s)
+[2018.02.18-04.15.10:346][613]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.15.10:399][613]LogInit: FAudioDevice initialized.
+[2018.02.18-04.15.10:431][613]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.15.10:438][613]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.17-23.15.10
+[2018.02.18-04.15.10:443][613]LogWorld: Bringing up level for play took: 0.011162
+[2018.02.18-04.15.10:444][613]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.15.10:444][613]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.15.10:444][613]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.15.10:449][613]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.15.10:449][613]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.052
+[2018.02.18-04.15.10:449][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.15.10:512][616]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.15.10:512][616]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.15.10:512][616]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.15.10:512][616]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.15.11:088][673]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.15.11:088][673]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.15.11:089][673]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.15.11:089][673]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.15.11:111][674]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.15.11:111][674]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.15.11:111][674]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.15.11:112][674]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.15.11:166][679]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.15.11:166][679]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_3
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.15.11:166][679]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.15.11:166][679]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.15.11:223][685]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.15.11:223][685]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_4
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.15.11:224][685]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.15.11:224][685]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.15.54:095][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.15.54:176][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.16.08:347][803]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.16.09:789][832]LogSavePackage: Save=738.27ms
+[2018.02.18-04.16.09:789][832]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap306C18AA4DB6C66EB0D43D9149FD239A.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.16.09:791][832]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.16.09:822][832]LogFileHelpers: Saving map 'MotionControllerMap' took 0.844
+[2018.02.18-04.16.10:748][893]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.16.10:772][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.16.10:772][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.16.10:772][893]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:16:10 PM)
+[2018.02.18-04.16.10:772][893]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.16.10:792][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020464s)
+[2018.02.18-04.16.10:793][893]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.16.10:793][893]LogPlayLevel: PIE: World Init took: (0.000624s)
+[2018.02.18-04.16.10:793][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.021460s)
+[2018.02.18-04.16.10:835][893]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.16.10:893][893]LogInit: FAudioDevice initialized.
+[2018.02.18-04.16.10:928][893]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.16.10:934][893]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.17-23.16.10
+[2018.02.18-04.16.10:937][893]LogWorld: Bringing up level for play took: 0.007712
+[2018.02.18-04.16.10:938][893]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.16.10:938][893]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.16.10:938][893]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.16.10:941][893]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.16.10:941][893]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.456
+[2018.02.18-04.16.10:941][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.16.11:010][897]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.16.11:010][897]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.16.11:010][897]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.16.11:010][897]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.16.44:322][763]LogScript: Warning: Attempted to access Door_3175 via property TargetDoor, but Door_3175 is pending kill
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0497
+[2018.02.18-04.16.44:323][763]PIE: Error: Blueprint Runtime Error: Attempted to access Door_3175 via property TargetDoor, but Door_3175 is pending kill from function: 'ExecuteUbergraph_Minion_AICON' from node: Branch in graph: EventGraph in object: Minion_AICON with description: Attempted to access Door_3175 via property TargetDoor, but Door_3175 is pending kill
+[2018.02.18-04.16.44:323][763]LogScript: Warning: Accessed None trying to read property RedWom
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:04CF
+[2018.02.18-04.16.44:323][763]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RedWom from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property RedWom
+[2018.02.18-04.16.44:323][763]LogScript: Warning: Accessed None
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:04E4
+[2018.02.18-04.16.44:323][763]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None
+[2018.02.18-04.16.50:011][138]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.16.50:104][138]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.16.55:756][283]Cmd: SELECT NONE
+[2018.02.18-04.16.56:228][295]Cmd: SELECT NONE
+[2018.02.18-04.16.59:437][379]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.18-04.17.04:048][784]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.18-04.17.16:468][358]MapCheck: New page: Map Check
+[2018.02.18-04.17.16:499][358]Cmd: MAP REBUILD ALLVISIBLE
+[2018.02.18-04.17.16:499][358]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.02.18-04.17.16:581][358]LightingResults: New page: Lighting Build - Feb 17, 2018, 6:17:16 PM
+[2018.02.18-04.17.16:714][358]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.18-04.17.16:891][358]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.18-04.17.16:915][358]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.18-04.17.18:981][358]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.18-04.17.18:981][358]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2404
+[2018.02.18-04.17.21:349][358]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.18-04.17.21:349][358]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.18-04.17.21:349][358]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.18-04.17.21:349][358]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.18-04.17.21:349][358]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.18-04.17.21:523][358]LogEditorBuildUtils: Build time 0:05
+[2018.02.18-04.17.21:536][358]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.02.18-04.17.21:546][358]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.02.18-04.17.21:617][359]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.02.18-04.17.21:627][359]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2018.02.18-04.17.21:691][360]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial, compiling. 
+[2018.02.18-04.17.21:700][360]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial, compiling. 
+[2018.02.18-04.17.21:774][361]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial1, compiling. 
+[2018.02.18-04.17.21:780][361]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial1, compiling. 
+[2018.02.18-04.17.21:823][362]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial2, compiling. 
+[2018.02.18-04.17.21:832][362]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer NewMaterial2, compiling. 
+[2018.02.18-04.17.21:879][363]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Grass, compiling. 
+[2018.02.18-04.17.21:887][363]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Ground_Grass, compiling. 
+[2018.02.18-04.17.21:917][364]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MI_BaseMaterial2, compiling. 
+[2018.02.18-04.17.21:922][364]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MI_BaseMaterial2, compiling. 
+[2018.02.18-04.17.22:020][365]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.02.18-04.17.22:030][365]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2018.02.18-04.17.22:097][366]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2018.02.18-04.17.22:104][366]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2018.02.18-04.17.22:160][367]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2018.02.18-04.17.22:166][367]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2018.02.18-04.17.39:455][422]Job is a success!
+[2018.02.18-04.17.41:819][423]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.02.18-04.17.41:819][423]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.02.18-04.17.41:819][423]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.02.18-04.17.41:819][423]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.02.18-04.17.41:819][423]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2018.02.18-04.17.41:819][423]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2018.02.18-04.17.41:819][423]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.02.18-04.17.41:819][423]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.02.18-04.17.42:019][423]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 64X64)
+[2018.02.18-04.17.42:019][423]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 32X32)
+[2018.02.18-04.17.42:135][423]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2018.02.18-04.17.42:135][423]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2018.02.18-04.17.42:244][423]Lightmass on MSI: 14.3 sec total, 136 ms importing, 27 ms setup, 3.13 sec photons, 10.9 sec processing, 0 ms extra exporting [160/160 mappings]. Threads: 1:16 min total, 16.7 sec processing.
+[2018.02.18-04.17.42:348][423]LogStaticLightingSystem: Illumination: 25.3 sec (1.37 sec encoding lightmaps, 313 ms encoding shadowmaps)
+[2018.02.18-04.17.42:349][423]LogStaticLightingSystem: Lightmap texture memory:  10.5 MB (2.5 MB streaming, 8.0 MB non-streaming), 8 textures
+[2018.02.18-04.17.42:349][423]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (5.3 MB streaming, 5.3 MB non-streaming), 4 textures
+[2018.02.18-04.17.43:332][423]DumpUnbuiltLightIteractions
+[2018.02.18-04.17.43:332][423]Lights with unbuilt interactions: 0
+[2018.02.18-04.17.43:332][423]
+[2018.02.18-04.17.43:332][423]Primitives with unbuilt interactions: 0
+[2018.02.18-04.17.43:479][424]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.18-04.17.43:480][424]MapCheck: New page: MotionControllerMap - Feb 17, 2018, 6:17:43 PM
+[2018.02.18-04.17.43:527][424]MapCheck: Warning: tower_polySurface21_2 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.02.18-04.17.43:527][424]MapCheck: Warning: tower_polySurface21_2 Skeletal mesh actor has NULL SkeletalMesh property 
+[2018.02.18-04.17.43:527][424]MapCheck: Warning: tower_pPlane1_5 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.02.18-04.17.43:527][424]MapCheck: Warning: tower_pPlane1_5 Skeletal mesh actor has NULL SkeletalMesh property 
+[2018.02.18-04.17.43:530][424]MapCheck: Warning: Asset_1_4x_Sprite2_5 'Asset_1_4x_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2018.02.18-04.17.43:530][424]MapCheck: Warning: Asset_1_4x_Sprite_2 'bluecassssle_4x_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2018.02.18-04.17.43:530][424]MapCheck: Warning: Asset_2_4x_Sprite_8 'Asset_2_4x_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2018.02.18-04.17.43:530][424]MapCheck: Warning: Asset_3_4x_Sprite_11 'Asset_3_4x_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2018.02.18-04.17.43:530][424]MapCheck: Warning: chanlage_Sprite_14 'chanlage_Sprite' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2018.02.18-04.17.43:581][424]MapCheck: Map check complete: 0 Error(s), 9 Warning(s), took 100.952ms to complete.
+[2018.02.18-04.17.49:929][561]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.17.49:957][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.17.49:957][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.17.49:958][561]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:17:49 PM)
+[2018.02.18-04.17.49:958][561]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.17.49:984][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026373s)
+[2018.02.18-04.17.49:985][561]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.17.49:985][561]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2018.02.18-04.17.49:986][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.027833s)
+[2018.02.18-04.17.50:032][561]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.17.50:082][561]LogInit: FAudioDevice initialized.
+[2018.02.18-04.17.50:117][561]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.17.50:122][561]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.17-23.17.50
+[2018.02.18-04.17.50:125][561]LogWorld: Bringing up level for play took: 0.006958
+[2018.02.18-04.17.50:125][561]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.17.50:125][561]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.17.50:125][561]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.17.50:128][561]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.17.50:128][561]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.731
+[2018.02.18-04.17.50:128][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.17.50:164][562]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.50:164][562]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.17.50:164][562]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.17.50:164][562]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.50:880][582]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.50:880][582]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.17.50:880][582]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.17.50:880][582]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.50:951][584]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.50:951][584]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.17.50:951][584]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.17.50:951][584]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.51:026][586]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.51:026][586]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_3
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.17.51:026][586]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.17.51:026][586]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.51:386][596]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.51:386][596]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_4
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.17.51:386][596]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.17.51:386][596]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.51:567][601]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.51:567][601]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_5
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.17.51:567][601]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.17.51:567][601]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.51:751][606]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.17.51:751][606]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_6
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.17.51:751][606]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.17.51:751][606]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.18.04:025][390]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.18.04:098][390]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.18.07:440][435]LogSavePackage: Save=682.99ms
+[2018.02.18-04.18.07:440][435]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMapF10C2F004478ED2E0AADC499B1F83CF7.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.18.07:442][435]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.18.07:477][435]LogFileHelpers: Saving map 'MotionControllerMap' took 0.796
+[2018.02.18-04.18.08:239][435]LogSavePackage: Save=607.09ms
+[2018.02.18-04.18.08:239][435]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap_BuiltData916DDAC846BA6BD9C364978B4BF0B167.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2018.02.18-04.18.08:242][435]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2018.02.18-04.20.26:104][714]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (chanlage_Sprite)
+[2018.02.18-04.20.26:985][785]LogEditorViewport: Clicking on Actor (LMB): Door_C (Door2)
+[2018.02.18-04.21.17:950][ 94]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.21.19:202][113]LogSavePackage: Save=678.05ms
+[2018.02.18-04.21.19:202][113]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap3D19599C4550DF02ACD7A3A4FEE44500.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.21.19:204][113]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.21.19:227][113]LogFileHelpers: Saving map 'MotionControllerMap' took 0.787
+[2018.02.18-04.24.16:735][702]LogEditorTransaction: Undo Move Node
+[2018.02.18-04.24.30:342][559]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.24.32:238][624]LogSavePackage: Save=710.08ms
+[2018.02.18-04.24.32:238][624]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap8C6243BB4F9FA39370831B9A31B9E00D.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.24.32:240][624]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.24.32:261][624]LogFileHelpers: Saving map 'MotionControllerMap' took 0.831
+[2018.02.18-04.25.25:547][266]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.28.27:815][227]LogSavePackage: Save=666.87ms
+[2018.02.18-04.28.27:815][227]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMapE233D21C4F03C13DFDB662B34223AA88.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.28.27:817][227]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.28.27:840][227]LogFileHelpers: Saving map 'MotionControllerMap' took 0.768
+[2018.02.18-04.28.28:172][249]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.28.30:732][400]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.28.30:911][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.28.30:911][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.28.30:911][400]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:28:30 PM)
+[2018.02.18-04.28.30:912][400]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.28.30:950][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038618s)
+[2018.02.18-04.28.30:951][400]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.28.30:951][400]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2018.02.18-04.28.30:952][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.040309s)
+[2018.02.18-04.28.30:994][400]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.28.31:048][400]LogInit: FAudioDevice initialized.
+[2018.02.18-04.28.31:086][400]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.28.31:099][400]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.17-23.28.31
+[2018.02.18-04.28.31:105][400]LogWorld: Bringing up level for play took: 0.016802
+[2018.02.18-04.28.31:106][400]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.28.31:106][400]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.28.31:106][400]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.28.31:110][400]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.28.31:110][400]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.287
+[2018.02.18-04.28.31:111][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.28.33:037][626]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.28.33:037][626]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.28.33:037][626]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.28.33:037][626]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.28.33:538][683]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2557.573 Y=0.000 Z=292.000] for [Minion_C]
+[2018.02.18-04.28.33:538][683]LogScript: Warning: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue3, but Minion_C_1 is pending kill
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_2
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:0431
+[2018.02.18-04.28.33:539][683]PIE: Error: Blueprint Runtime Error: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue3, but Minion_C_1 is pending kill from function: 'ExecuteUbergraph_MotionControllerMap' from node: Create Dynamic Material Instance in graph: EventGraph in object: MotionControllerMap with description: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue3, but Minion_C_1 is pending kill
+[2018.02.18-04.28.33:539][683]LogScript: Warning: Accessed None
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_2
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:0446
+[2018.02.18-04.28.33:539][683]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_MotionControllerMap' from node: Create Dynamic Material Instance in graph: EventGraph in object: MotionControllerMap with description: Accessed None
+[2018.02.18-04.28.33:539][683]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue3
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_2
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:047A
+[2018.02.18-04.28.33:539][683]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue3 from function: 'ExecuteUbergraph_MotionControllerMap' from node: Set Vector Parameter Value in graph: EventGraph in object: MotionControllerMap with description: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue3
+[2018.02.18-04.28.34:046][741]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.28.34:046][741]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.28.34:046][741]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.28.34:046][741]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.28.44:841][865]LogEditorViewport: Clicking on Actor (LMB): Cylinder6_Blueprint_C (Cylinder6_Blueprint4)
+[2018.02.18-04.28.53:765][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.28.53:848][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.28.56:131][543]LogEditorViewport: Clicking on Actor (LMB): Cylinder6_Blueprint_C (Cylinder6_Blueprint4)
+[2018.02.18-04.28.59:569][702]LogSavePackage: Save=653.55ms
+[2018.02.18-04.28.59:569][702]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap9DA207CF41878B440D882DA5B588700E.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.28.59:570][702]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.29.00:232][702]LogSavePackage: Save=621.50ms
+[2018.02.18-04.29.00:232][702]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap_BuiltData8273E689440137AFE863C99091207665.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2018.02.18-04.29.00:233][702]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2018.02.18-04.29.00:597][723]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.29.00:617][723]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.29.00:617][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.29.00:617][723]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:29:00 PM)
+[2018.02.18-04.29.00:617][723]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.29.00:637][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019704s)
+[2018.02.18-04.29.00:638][723]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.29.00:638][723]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2018.02.18-04.29.00:638][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.020791s)
+[2018.02.18-04.29.00:681][723]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.29.00:733][723]LogInit: FAudioDevice initialized.
+[2018.02.18-04.29.00:764][723]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.29.00:769][723]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.17-23.29.00
+[2018.02.18-04.29.00:771][723]LogWorld: Bringing up level for play took: 0.006633
+[2018.02.18-04.29.00:772][723]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.29.00:772][723]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.29.00:772][723]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.29.00:776][723]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.29.00:776][723]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.622
+[2018.02.18-04.29.00:776][723]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.29.02:998][840]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.29.02:998][840]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.29.02:998][840]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.29.02:998][840]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.29.03:502][869]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2554.415 Y=0.000 Z=292.000] for [Minion_C]
+[2018.02.18-04.29.03:503][869]LogScript: Warning: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue3, but Minion_C_1 is pending kill
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_0
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:0431
+[2018.02.18-04.29.03:503][869]PIE: Error: Blueprint Runtime Error: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue3, but Minion_C_1 is pending kill from function: 'ExecuteUbergraph_MotionControllerMap' from node: Create Dynamic Material Instance in graph: EventGraph in object: MotionControllerMap with description: Attempted to access Minion_C_1 via property CallFunc_FinishSpawningActor_ReturnValue3, but Minion_C_1 is pending kill
+[2018.02.18-04.29.03:503][869]LogScript: Warning: Accessed None
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_0
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:0446
+[2018.02.18-04.29.03:503][869]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_MotionControllerMap' from node: Create Dynamic Material Instance in graph: EventGraph in object: MotionControllerMap with description: Accessed None
+[2018.02.18-04.29.03:504][869]LogScript: Warning: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue3
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_0
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:047A
+[2018.02.18-04.29.03:504][869]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue3 from function: 'ExecuteUbergraph_MotionControllerMap' from node: Set Vector Parameter Value in graph: EventGraph in object: MotionControllerMap with description: Accessed None trying to read property CallFunc_CreateDynamicMaterialInstance_ReturnValue3
+[2018.02.18-04.29.08:513][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.29.08:583][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.29.11:364][413]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.02.18-04.29.16:211][653]LogEditorViewport: Clicking on Actor (LMB): Cylinder6_Blueprint_C (Cylinder6_Blueprint4)
+[2018.02.18-04.29.25:202][362]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.18-04.29.27:676][480]LogSavePackage: Save=647.70ms
+[2018.02.18-04.29.27:676][480]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap96A82A0B4ACD3D1EF22B698AF3E5A7FE.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.29.27:678][480]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.29.28:304][480]LogSavePackage: Save=597.86ms
+[2018.02.18-04.29.28:304][480]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap_BuiltDataAEFA26624A48143BBEB440B6DC636B64.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2018.02.18-04.29.28:306][480]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset
+[2018.02.18-04.29.28:649][513]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.29.28:673][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.29.28:673][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.29.28:673][513]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:29:28 PM)
+[2018.02.18-04.29.28:673][513]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.29.28:694][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021666s)
+[2018.02.18-04.29.28:695][513]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.29.28:695][513]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2018.02.18-04.29.28:696][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.023162s)
+[2018.02.18-04.29.28:737][513]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.29.28:790][513]LogInit: FAudioDevice initialized.
+[2018.02.18-04.29.28:824][513]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.29.28:835][513]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.17-23.29.28
+[2018.02.18-04.29.28:840][513]LogWorld: Bringing up level for play took: 0.015087
+[2018.02.18-04.29.28:841][513]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.29.28:842][513]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.29.28:842][513]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.29.28:847][513]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.29.28:847][513]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.55
+[2018.02.18-04.29.28:848][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.29.35:946][348]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.29.35:946][348]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.29.35:946][348]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.29.35:946][348]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.29.36:002][354]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.29.36:002][354]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.29.36:002][354]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.29.36:002][354]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.29.39:820][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.29.39:874][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.33.13:103][151]LogSavePackage: Save=738.96ms
+[2018.02.18-04.33.13:103][151]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap34B558794D35DF53145847A76FD6C088.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.33.13:104][151]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.33.13:128][151]LogFileHelpers: Saving map 'MotionControllerMap' took 1.120
+[2018.02.18-04.33.16:141][300]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.33.16:161][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.33.16:161][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.33.16:161][300]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:33:16 PM)
+[2018.02.18-04.33.16:161][300]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.33.16:185][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023474s)
+[2018.02.18-04.33.16:185][300]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.33.16:186][300]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.02.18-04.33.16:186][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.024608s)
+[2018.02.18-04.33.16:229][300]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.33.16:280][300]LogInit: FAudioDevice initialized.
+[2018.02.18-04.33.16:313][300]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.33.16:322][300]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.17-23.33.16
+[2018.02.18-04.33.16:327][300]LogWorld: Bringing up level for play took: 0.012268
+[2018.02.18-04.33.16:327][300]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.33.16:328][300]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.33.16:328][300]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.33.16:333][300]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.33.16:333][300]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.936
+[2018.02.18-04.33.16:334][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.33.20:163][739]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.33.20:164][739]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.33.20:164][739]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.33.20:164][739]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.33.49:318][957]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.33.49:407][957]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.34.08:510][601]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.34.09:919][630]LogSavePackage: Save=755.17ms
+[2018.02.18-04.34.09:919][630]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap6443DA1D4A29F43148C8ED8C330BCC08.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.34.09:920][630]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.34.09:942][630]LogFileHelpers: Saving map 'MotionControllerMap' took 0.852
+[2018.02.18-04.34.11:096][700]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.34.11:114][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.34.11:115][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.34.11:115][700]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:34:11 PM)
+[2018.02.18-04.34.11:115][700]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.34.11:135][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020015s)
+[2018.02.18-04.34.11:136][700]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.34.11:136][700]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2018.02.18-04.34.11:136][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.021495s)
+[2018.02.18-04.34.11:180][700]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.34.11:236][700]LogInit: FAudioDevice initialized.
+[2018.02.18-04.34.11:272][700]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.34.11:277][700]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.02.17-23.34.11
+[2018.02.18-04.34.11:280][700]LogWorld: Bringing up level for play took: 0.006971
+[2018.02.18-04.34.11:280][700]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.34.11:280][700]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.34.11:280][700]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.34.11:283][700]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.34.11:283][700]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.114
+[2018.02.18-04.34.11:284][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.34.13:896][  2]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.13:896][  2]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.34.13:896][  2]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.34.13:896][  2]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.13:923][  5]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.13:923][  5]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.34.13:923][  5]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.34.13:923][  5]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.13:986][ 12]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.13:986][ 12]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.34.13:987][ 12]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.34.13:987][ 12]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.14:314][ 50]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.14:314][ 50]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_3
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.34.14:314][ 50]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.34.14:314][ 50]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.14:514][ 73]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.14:514][ 73]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_4
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.34.14:514][ 73]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.34.14:514][ 73]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.14:716][ 96]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.14:716][ 96]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_5
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.34.14:716][ 96]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.34.14:717][ 96]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.34.18:294][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane21)
+[2018.02.18-04.34.19:385][473]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.02.18-04.34.20:368][518]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.02.18-04.34.38:141][497]LogScript: Warning: Attempted to access Door2_3808 via property TargetDoor, but Door2_3808 is pending kill
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0497
+[2018.02.18-04.34.38:141][497]PIE: Error: Blueprint Runtime Error: Attempted to access Door2_3808 via property TargetDoor, but Door2_3808 is pending kill from function: 'ExecuteUbergraph_Minion_AICON' from node: Branch in graph: EventGraph in object: Minion_AICON with description: Attempted to access Door2_3808 via property TargetDoor, but Door2_3808 is pending kill
+[2018.02.18-04.34.38:141][497]LogScript: Warning: Accessed None trying to read property RedWom
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:04CF
+[2018.02.18-04.34.38:142][497]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RedWom from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property RedWom
+[2018.02.18-04.34.38:142][497]LogScript: Warning: Accessed None
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_2
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:04E4
+[2018.02.18-04.34.38:142][497]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None
+[2018.02.18-04.34.38:292][505]LogScript: Warning: Attempted to access Door3_4297 via property TargetDoor, but Door3_4297 is pending kill
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0497
+[2018.02.18-04.34.38:292][505]PIE: Error: Blueprint Runtime Error: Attempted to access Door3_4297 via property TargetDoor, but Door3_4297 is pending kill from function: 'ExecuteUbergraph_Minion_AICON' from node: Branch in graph: EventGraph in object: Minion_AICON with description: Attempted to access Door3_4297 via property TargetDoor, but Door3_4297 is pending kill
+[2018.02.18-04.34.38:292][505]LogScript: Warning: Accessed None trying to read property RedWom
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:04CF
+[2018.02.18-04.34.38:293][505]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RedWom from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property RedWom
+[2018.02.18-04.34.38:293][505]LogScript: Warning: Accessed None
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_0
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:04E4
+[2018.02.18-04.34.38:293][505]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None
+[2018.02.18-04.34.38:293][505]LogScript: Warning: Attempted to access Door_3175 via property TargetDoor, but Door_3175 is pending kill
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0497
+[2018.02.18-04.34.38:293][505]PIE: Error: Blueprint Runtime Error: Attempted to access Door_3175 via property TargetDoor, but Door_3175 is pending kill from function: 'ExecuteUbergraph_Minion_AICON' from node: Branch in graph: EventGraph in object: Minion_AICON with description: Attempted to access Door_3175 via property TargetDoor, but Door_3175 is pending kill
+[2018.02.18-04.34.38:293][505]LogScript: Warning: Accessed None trying to read property RedWom
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:04CF
+[2018.02.18-04.34.38:293][505]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RedWom from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property RedWom
+[2018.02.18-04.34.38:293][505]LogScript: Warning: Accessed None
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:04E4
+[2018.02.18-04.34.38:293][505]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None
+[2018.02.18-04.34.53:203][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.34.53:269][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.35.44:920][931]LogSlate: Took 0.289283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.18-04.36.42:943][121]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.36.49:068][454]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.37.31:470][835]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.37.33:062][858]LogSavePackage: Save=1004.18ms
+[2018.02.18-04.37.33:062][858]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMapACF737E64D99F58201FFF49D464255C1.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.37.33:063][858]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.37.33:089][858]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.18-04.37.33:092][858]LogFileHelpers: Saving map 'MotionControllerMap' took 1.108
+[2018.02.18-04.37.34:335][930]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.18-04.37.34:354][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.37.34:354][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-04.37.34:355][930]PIE: New page: PIE session: MotionControllerMap (Feb 17, 2018, 6:37:34 PM)
+[2018.02.18-04.37.34:355][930]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.02.18-04.37.34:375][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020268s)
+[2018.02.18-04.37.34:375][930]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.02.18-04.37.34:375][930]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2018.02.18-04.37.34:376][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.021183s)
+[2018.02.18-04.37.34:419][930]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.02.18-04.37.34:475][930]LogInit: FAudioDevice initialized.
+[2018.02.18-04.37.34:510][930]LogLoad: Game class is 'MOBA_AI_GameMode_C'
+[2018.02.18-04.37.34:515][930]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2018.02.17-23.37.34
+[2018.02.18-04.37.34:518][930]LogWorld: Bringing up level for play took: 0.007017
+[2018.02.18-04.37.34:519][930]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.37.34:519][930]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.18-04.37.34:519][930]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.37.34:522][930]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.18-04.37.34:522][930]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.125
+[2018.02.18-04.37.34:522][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.37.35:770][  4]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.37.35:770][  4]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.37.35:770][  4]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.37.35:920][ 13]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.37.35:920][ 13]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0C56
+[2018.02.18-04.37.35:920][ 13]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_Array_Get_Item from function: 'ExecuteUbergraph_Minion_AICON' from node: Set Value as Vector in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property CallFunc_Array_Get_Item
+[2018.02.18-04.37.35:920][ 13]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'Waypoints' of length 0 in '/Game/MOBA_Minion_AI/Units/Minion.Minion_C'!
+[2018.02.18-04.37.56:465][198]PIE: Error: Blueprint Runtime Error: Attempted to access Door_3175 via property TargetDoor, but Door_3175 is pending kill from function: 'ExecuteUbergraph_Minion_AICON' from node: Branch in graph: EventGraph in object: Minion_AICON with description: Attempted to access Door_3175 via property TargetDoor, but Door_3175 is pending kill
+[2018.02.18-04.37.56:465][198]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RedWom from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property RedWom
+[2018.02.18-04.37.56:465][198]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None
+[2018.02.18-04.37.56:502][200]LogScript: Warning: Attempted to access Door2_3808 via property TargetDoor, but Door2_3808 is pending kill
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:0497
+[2018.02.18-04.37.56:502][200]PIE: Error: Blueprint Runtime Error: Attempted to access Door2_3808 via property TargetDoor, but Door2_3808 is pending kill from function: 'ExecuteUbergraph_Minion_AICON' from node: Branch in graph: EventGraph in object: Minion_AICON with description: Attempted to access Door2_3808 via property TargetDoor, but Door2_3808 is pending kill
+[2018.02.18-04.37.56:502][200]LogScript: Warning: Accessed None trying to read property RedWom
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:04CF
+[2018.02.18-04.37.56:502][200]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RedWom from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None trying to read property RedWom
+[2018.02.18-04.37.56:502][200]LogScript: Warning: Accessed None
+	Minion_AICON_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.Minion_AICON_C_1
+	Function /Game/MOBA_Minion_AI/AI/Minion_AICON.Minion_AICON_C:ExecuteUbergraph_Minion_AICON:04E4
+[2018.02.18-04.37.56:502][200]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_Minion_AICON' from node: Toggle Visibility in graph: EventGraph in object: Minion_AICON with description: Accessed None
+[2018.02.18-04.38.15:432][310]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.38.15:488][310]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.02.18-04.38.42:471][627]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.38.44:629][677]LogSavePackage: Save=767.62ms
+[2018.02.18-04.38.44:629][677]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap9AAC784546646CFC3EC634B8C973E44B.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.38.44:631][677]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.38.44:654][677]LogFileHelpers: Saving map 'MotionControllerMap' took 1.162
+[2018.02.18-04.38.50:518][987]BlueprintLog: New page: Compile MotionControllerMap
+[2018.02.18-04.38.54:023][127]LogSavePackage: Save=667.19ms
+[2018.02.18-04.38.54:023][127]LogSavePackage: Moving '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/MotionControllerMap14FF3F2645890D28B1EF5881848EEC39.tmp' to '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.02.18-04.38.54:024][127]LogSavePackage: Display: Finished SavePackage ../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/VirtualRealityBP/Maps/MotionControllerMap.umap
+[2018.02.18-04.38.54:047][127]LogFileHelpers: Saving map 'MotionControllerMap' took 0.760
+[2018.02.18-04.39.05:158][576]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.18-04.39.05:387][577]Cmd: QUIT_EDITOR
+[2018.02.18-04.39.06:128][577]LogExit: Preparing to exit.
+[2018.02.18-04.39.06:489][577]LogDirectoryWatcher: A directory notification for 'D:/Documents/NEU/2017_Fall/Capstone/Beat-It/Content/' was aborted.
+[2018.02.18-04.39.06:566][577]LogExit: Editor shut down
+[2018.02.18-04.39.06:572][577]LogExit: Transaction tracking system shut down
+[2018.02.18-04.39.06:911][577]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.18-04.39.06:911][577]LogDirectoryWatcher: A directory notification for '../../../../Documents/NEU/2017_Fall/Capstone/Beat-It/Content/' was aborted.
+[2018.02.18-04.39.06:912][577]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.18-04.39.06:912][577]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.18-04.39.06:912][577]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.18-04.39.07:030][577]LogExit: Object subsystem successfully closed.
+[2018.02.18-04.39.07:116][577]LogD3D11RHI: Shutdown
+[2018.02.18-04.39.07:117][577]LogD3D11RHI: CleanupD3DDevice
+[2018.02.18-04.39.07:256][577]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.18-04.39.07:265][577]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (536)
+[2018.02.18-04.39.07:265][577]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2018.02.18-04.39.07:265][577]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2018.02.18-04.39.07:265][577]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.02.18-04.39.07:265][577]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.02.18-04.39.07:265][577]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.02.18-04.39.07:265][577]LogDirectoryWatcher: A directory notification for 'D:/UE_4.17/FeaturePacks/' was aborted.
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.02.18-04.39.07:266][577]LogDirectoryWatcher: A directory notification for 'D:/Documents/NEU/2017_Fall/Capstone/Beat-It/Content/Collections/' was aborted.
+[2018.02.18-04.39.07:266][577]LogDirectoryWatcher: A directory notification for 'D:/Documents/NEU/2017_Fall/Capstone/Beat-It/Content/Developers/Christopher/Collections/' was aborted.
+[2018.02.18-04.39.07:266][577]LogDirectoryWatcher: A directory notification for 'D:/Documents/NEU/2017_Fall/Capstone/Beat-It/Saved/Collections/' was aborted.
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.02.18-04.39.07:266][577]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.02.18-04.39.07:267][577]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.02.18-04.39.07:698][577]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.02.18-04.39.07:699][577]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.02.18-04.39.07:700][577]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.02.18-04.39.07:700][577]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.02.18-04.39.07:700][577]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.02.18-04.39.07:752][577]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.02.18-04.39.07:752][577]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.02.18-04.39.07:752][577]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.02.18-04.39.07:752][577]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.02.18-04.39.07:752][577]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.02.18-04.39.07:752][577]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.02.18-04.39.07:752][577]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.02.18-04.39.07:752][577]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.02.18-04.39.07:752][577]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.02.18-04.39.07:753][577]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.02.18-04.39.07:765][577]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.02.18-04.39.07:765][577]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.02.18-04.39.07:765][577]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.02.18-04.39.07:765][577]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.02.18-04.39.07:765][577]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.02.18-04.39.07:765][577]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.02.18-04.39.07:765][577]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.02.18-04.39.07:765][577]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.02.18-04.39.07:766][577]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.02.18-04.39.07:786][577]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.02.18-04.39.07:787][577]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.02.18-04.39.07:788][577]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.02.18-04.39.07:788][577]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.02.18-04.39.07:788][577]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.02.18-04.39.07:788][577]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.02.18-04.39.07:789][577]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.02.18-04.39.07:789][577]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.02.18-04.39.07:789][577]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.02.18-04.39.07:789][577]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.02.18-04.39.07:789][577]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.02.18-04.39.07:789][577]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.02.18-04.39.07:789][577]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.02.18-04.39.07:889][577]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.02.18-04.39.07:989][577]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.02.18-04.39.07:989][577]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.02.18-04.39.07:989][577]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.02.18-04.39.07:989][577]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.02.18-04.39.07:989][577]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.02.18-04.39.07:990][577]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.02.18-04.39.07:991][577]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.02.18-04.39.07:991][577]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.02.18-04.39.07:991][577]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.02.18-04.39.07:991][577]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.02.18-04.39.07:997][577]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.02.18-04.39.07:997][577]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.02.18-04.39.07:997][577]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.02.18-04.39.08:034][577]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.02.18-04.39.08:034][577]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.02.18-04.39.08:034][577]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.02.18-04.39.08:034][577]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.02.18-04.39.08:034][577]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.02.18-04.39.08:035][577]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.02.18-04.39.08:035][577]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.02.18-04.39.08:035][577]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.02.18-04.39.08:035][577]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.02.18-04.39.08:035][577]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.02.18-04.39.08:035][577]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.02.18-04.39.08:035][577]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.02.18-04.39.08:035][577]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.02.18-04.39.08:036][577]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.02.18-04.39.08:036][577]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.02.18-04.39.08:036][577]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.02.18-04.39.08:036][577]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.02.18-04.39.08:042][577]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.02.18-04.39.08:042][577]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.02.18-04.39.08:042][577]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.02.18-04.39.08:042][577]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.02.18-04.39.08:042][577]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.02.18-04.39.08:043][577]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.02.18-04.39.08:043][577]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.18-04.39.08:043][577]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.02.18-04.39.08:043][577]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.02.18-04.39.08:043][577]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.02.18-04.39.08:043][577]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.02.18-04.39.08:043][577]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.02.18-04.39.08:043][577]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.02.18-04.39.08:043][577]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.02.18-04.39.08:043][577]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.02.18-04.39.08:043][577]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.02.18-04.39.08:045][577]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.02.18-04.39.08:066][577]LogDerivedDataCache: Shutdown
+[2018.02.18-04.39.08:066][577]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.02.18-04.39.08:066][577]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.02.18-04.39.08:066][577]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.02.18-04.39.08:066][577]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.02.18-04.39.08:066][577]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.02.18-04.39.08:066][577]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.02.18-04.39.08:066][577]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.02.18-04.39.08:066][577]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.02.18-04.39.08:066][577]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.02.18-04.39.08:066][577]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.02.18-04.39.08:067][577]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.02.18-04.39.08:068][577]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.02.18-04.39.08:069][577]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.02.18-04.39.08:069][577]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.02.18-04.39.08:069][577]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.02.18-04.39.08:069][577]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.02.18-04.39.08:069][577]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.02.18-04.39.08:069][577]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.02.18-04.39.08:069][577]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.02.18-04.39.08:069][577]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.02.18-04.39.08:069][577]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.02.18-04.39.08:069][577]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.02.18-04.39.08:070][577]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.02.18-04.39.08:070][577]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.18-04.39.08:070][577]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.18-04.39.08:070][577]LogOnline: Display: Unloading online subsystem: NULL
+[2018.02.18-04.39.08:070][577]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.18-04.39.08:070][577]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.18-04.39.08:070][577]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.18-04.39.08:070][577]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7550FA3E-4776-6171-3E60-D8859A0F0007%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=28fe25044870b5b72dc3d6b9b48527b1%7C08cd79a2e2bf434ba284098852ff0e20%7C321d2d8f-4124-47ea-a363-353f79d94d2f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.18-04.39.08:098][577]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.18-04.39.08:102][577]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.18-04.39.08:103][577]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.18-04.39.08:103][577]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.18-04.39.08:103][577]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.18-04.39.08:103][577]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.18-04.39.08:103][577]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.18-04.39.08:103][577]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.18-04.39.08:116][577]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.18-04.39.08:116][577]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.18-04.39.08:116][577]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.18-04.39.08:116][577]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.18-04.39.08:116][577]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.18-04.39.08:116][577]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.18-04.39.08:116][577]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.18-04.39.08:117][577]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.18-04.39.08:117][577]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.18-04.39.08:117][577]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.18-04.39.08:117][577]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.18-04.39.08:128][577]LogExit: Exiting.
+[2018.02.18-04.39.08:169][577]Log file closed, 02/17/18 23:39:08
